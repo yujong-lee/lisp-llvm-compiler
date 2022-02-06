@@ -7,6 +7,6 @@ Learned from some of [these](https://notes.eatonphil.com/tags/compilers.html) po
 Not ready yet.
 
 ## Todo
-- Finish LLVM backend
-- Make S Expression parser cleaner, whitespace-forgiving.
-- Generate LLVM IR with [API](https://llvm.org/docs/ProgrammersManual.html) not string manipulations.
+- Finish `LLVM` backend
+- Make `S Expression` parser cleaner, whitespace-forgiving.
+- Generate `LLVM IR` with [API](https://llvm.org/docs/ProgrammersManual.html), not string manipulations.
